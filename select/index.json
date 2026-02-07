@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Cherry Cherry",
+  "base_artist": "Chara",
+  "createdAt": "2026-02-07T23:38:26.094174Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Cherry Cherry",
+      "artist": "Neil Diamond",
+      "has_synced": false,
+      "path": "select/01_Cherry_Cherry_Neil_Diamond.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Cherry, Cherry",
+      "artist": "The New Power Generation",
+      "has_synced": false,
+      "path": "select/02_Cherry,_Cherry_The_New_Power_Generation.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "It's Time - Cherry Cherry Boom Boom Remix",
+      "artist": "Imagine Dragons",
+      "has_synced": true,
+      "path": "select/03_It's_Time_-_Cherry_Cherry_Boom_Boom_Remix_Imagine_Dragons.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "It's Time (Cherry Cherry Boom Boom Remix)",
+      "artist": "Imagine Dragons",
+      "has_synced": true,
+      "path": "select/04_It's_Time_(Cherry_Cherry_Boom_Boom_Remix)_Imagine_Dragons.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Cherry, Cherry - Single Version",
+      "artist": "Neil Diamond",
+      "has_synced": false,
+      "path": "select/05_Cherry,_Cherry_-_Single_Version_Neil_Diamond.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Cherry, Cherry",
+      "artist": "Neil Diamond",
+      "has_synced": true,
+      "path": "select/06_Cherry,_Cherry_Neil_Diamond.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Cherry, Cherry",
+      "artist": "Neil Diamond",
+      "has_synced": true,
+      "path": "select/07_Cherry,_Cherry_Neil_Diamond.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Cherry,Cherry",
+      "artist": "Neil Diamond",
+      "has_synced": true,
+      "path": "select/08_Cherry,Cherry_Neil_Diamond.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Cherry, Cherry",
+      "artist": "NPG",
+      "has_synced": false,
+      "path": "select/09_Cherry,_Cherry_NPG.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Cherry, Cherry Coupe (Stereo)",
+      "artist": "The Beach Boys",
+      "has_synced": false,
+      "path": "select/10_Cherry,_Cherry_Coupe_(Stereo)_The_Beach_Boys.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Party Rock Anthem (Cherry Cherry Boom Boom Bomber Refreak)",
+      "artist": "LMFAO",
+      "has_synced": false,
+      "path": "select/11_Party_Rock_Anthem_(Cherry_Cherry_Boom_Boom_Bomber_Refreak)_LMFAO.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Cherry, Cherry (Single Version)",
+      "artist": "Neil Diamond",
+      "has_synced": true,
+      "path": "select/12_Cherry,_Cherry_(Single_Version)_Neil_Diamond.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Cherry, Cherry Coupe",
+      "artist": "The Beach Boys",
+      "has_synced": false,
+      "path": "select/13_Cherry,_Cherry_Coupe_The_Beach_Boys.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Cherry Cherry Coupe",
+      "artist": "The Beach Boys",
+      "has_synced": true,
+      "path": "select/14_Cherry_Cherry_Coupe_The_Beach_Boys.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Cherry Cherry",
+      "artist": "The Music Machine",
+      "has_synced": false,
+      "path": "select/15_Cherry_Cherry_The_Music_Machine.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Cherry Cherry Christmas",
+      "artist": "Neil Diamond",
+      "has_synced": true,
+      "path": "select/16_Cherry_Cherry_Christmas_Neil_Diamond.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Cherry Cherry",
+      "artist": "Chara",
+      "has_synced": false,
+      "path": "select/pl_01_Cherry_Cherry_Chara.txt"
+    }
+  ]
+}
